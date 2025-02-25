@@ -1,5 +1,5 @@
 import React from "react";
-import HeroText from "./HeroText";
+import HeroText from "./Herotext.jsx";
 import HeroImage from "./HeroImage";
 
 const HeroMain = () => {
