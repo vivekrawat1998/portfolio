@@ -2,7 +2,7 @@ import React from "react";
 import { HiOutlineMail } from "react-icons/hi";
 import { FiPhone } from "react-icons/fi";
 import { IoLocationOutline } from "react-icons/io5";
-import SingleInfo from "./SingleInfo";
+import SingleInfo from "./Singleinfo.jsx";
 
 const ContactInfo = () => {
   return (
